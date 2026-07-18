@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./enterprise-knowledge-layer-mcp.png"
+  <img src="./.png"
        alt="Enterprise Knowledge Layer and MCP Agent"
        width="720" />
 </p>
